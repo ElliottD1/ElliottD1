@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Elliott Day</h1>
-
+<h3 align='center'></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=giraffe32&label=Profile%20views&color=0e75b6&style=flat" alt="giraffe32" /> </p>
 
